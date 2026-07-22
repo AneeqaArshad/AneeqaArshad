@@ -89,3 +89,124 @@ Designed an intelligent recommendation engine that matches users with suitable c
 **Tech Stack**
 
 `Python` `Scikit-learn` `NLP`
+
+---
+
+# Engineering Toolkit
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Languages
+- Python
+- SQL
+
+### 🤖 Machine Learning
+- Scikit-learn
+- TensorFlow
+- Keras
+
+### 👁️ Computer Vision
+- OpenCV
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 Generative AI
+- LangChain
+- LangGraph
+- ChromaDB
+- Sentence Transformers
+- Ollama
+- RAG
+
+### ⚙️ Backend
+- Flask
+- REST APIs
+- JWT Authentication
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🗄️ Databases
+- MongoDB
+- SQLite
+
+</td>
+
+<td>
+
+### 🛠️ Tools
+- Git
+- Docker
+- Selenium
+- Power BI
+- Jupyter Notebook
+
+</td>
+</tr>
+</table>
+
+---
+
+# Engineering Philosophy
+
+> *"Great AI isn't measured only by model accuracy—it's measured by the value it creates."*
+
+I believe intelligent systems should be **practical, explainable, and built for real-world use**. My approach combines machine learning with strong software engineering principles to develop end-to-end AI applications that are scalable, maintainable, and user-focused.
+
+---
+
+# Currently Exploring
+
+- 🚀 Agentic AI Systems
+- 🧠 Advanced Retrieval-Augmented Generation (RAG)
+- 📊 LLM Evaluation & Optimization
+- ⚙️ MLOps & Production Deployment
+- 🌐 Scalable AI Backend Architecture
+- ---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AneeqaArshad&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqaArshad&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AneeqaArshad&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Let's Connect
+
+<p align="left">
+
+<a href="www.linkedin.com/in/aniqa-arshad43">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aneeqaarshad43@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ *Building AI that solves real-world problems.*
+
+</p>
