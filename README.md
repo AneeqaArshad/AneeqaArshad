@@ -35,7 +35,7 @@ From data collection and preprocessing to model training, backend development, a
 
 Developed an end-to-end AI travel planning platform that generates personalized and explainable travel itineraries using Retrieval-Augmented Generation (RAG), semantic search, and LLM-powered reasoning. The system combines user preferences, budget, and trip duration to deliver transparent recommendations through a production-ready backend architecture.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([YOUR_REPO_LINK](https://github.com/AneeqaArshad/Safar-Budget-Travel-Planner)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/AneeqaArshad/Safar-Budget-Travel-Planner]).
 
 ### Technologies
 
