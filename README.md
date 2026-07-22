@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+# Aniqa Arshad
 
-<!--
-**AneeqaArshad/AneeqaArshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Machine Learning Engineer
 
-Here are some ideas to get you started:
+> **Building production-ready AI systems that solve real-world problems.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From machine learning and computer vision to NLP and Generative AI, I develop end-to-end intelligent applications that bridge research and real-world use.
+
+<p align="left">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
