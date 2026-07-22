@@ -35,7 +35,7 @@ From data collection and preprocessing to model training, backend development, a
 
 Developed an end-to-end AI travel planning platform that generates personalized and explainable travel itineraries using Retrieval-Augmented Generation (RAG), semantic search, and LLM-powered reasoning. The system combines user preferences, budget, and trip duration to deliver transparent recommendations through a production-ready backend architecture.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([YOUR_REPO_LINK](https://github.com/AneeqaArshad/Safar-Budget-Travel-Planner))
 
 ### Technologies
 
@@ -51,7 +51,7 @@ Developed an end-to-end AI travel planning platform that generates personalized 
 
 Designed and implemented a deep learning-based facial recognition system using Convolutional Neural Networks (CNNs). The project covers the complete computer vision pipeline, including image preprocessing, augmentation, model training, evaluation, and real-time prediction.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AneeqaArshad/celebrity-face-identification)
 
 ### Technologies
 
@@ -83,7 +83,7 @@ Built an NLP-powered misinformation detection system that classifies news articl
 
 Developed an intelligent recommendation engine that matches users with suitable career paths using Natural Language Processing and semantic similarity techniques. The system generates personalized career recommendations based on user interests and skills.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([YOUR_REPO_LINK](https://github.com/AneeqaArshad/AI-Career-Recommendation-System))
 
 ### Technologies
 
