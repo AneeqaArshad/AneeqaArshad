@@ -27,68 +27,71 @@ I'm a **Machine Learning Engineer** focused on building intelligent systems that
 My work spans **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Recommendation Systems, and Generative AI**, with a strong emphasis on developing complete AI products rather than isolated models.
 
 From data collection and preprocessing to model training, backend development, and deployment, I enjoy engineering AI solutions that are practical, explainable, scalable, and built for real-world use.
+------
+
+# Selected Projects
+
+## 🧭 Safar — AI-Powered Explainable Travel Planning System
+
+Developed an end-to-end AI travel planning platform that generates personalized and explainable travel itineraries using Retrieval-Augmented Generation (RAG), semantic search, and LLM-powered reasoning. The system combines user preferences, budget, and trip duration to deliver transparent recommendations through a production-ready backend architecture.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+### Technologies
+
+`Python` `Flask` `MongoDB` `LangGraph` `ChromaDB` `Sentence Transformers` `Ollama` `Docker`
+
+### Demonstrates
+
+`RAG Architecture` `LLM Integration` `Backend Engineering` `Vector Search` `Explainable AI`
+
 ---
-# Featured Work
-### 🧭 Safar — AI-Powered Explainable Travel Planning System
 
-An end-to-end AI travel planning platform that generates personalized itineraries using Retrieval-Augmented Generation (RAG), semantic search, and explainable AI. Designed to provide transparent recommendations based on user preferences, budget, and travel duration.
+## 🎭 Celebrity Face Recognition
 
-**Highlights**
+Designed and implemented a deep learning-based facial recognition system using Convolutional Neural Networks (CNNs). The project covers the complete computer vision pipeline, including image preprocessing, augmentation, model training, evaluation, and real-time prediction.
 
-- 🤖 Explainable AI-powered itinerary generation
-- 🔍 Semantic search using vector embeddings
-- 🧠 RAG architecture with LangGraph & ChromaDB
-- 🌍 Personalized travel recommendations
-- ⚡ Flask REST API with MongoDB backend
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
 
-**Tech Stack**
+### Technologies
 
-`Python` `Flask` `MongoDB` `LangGraph` `Sentence Transformers` `ChromaDB` `Docker` `Ollama`
+`Python` `TensorFlow` `Keras` `OpenCV` `NumPy`
 
-### 🎭 Celebrity Face Recognition
+### Demonstrates
 
-Built an end-to-end computer vision pipeline for celebrity face classification using Convolutional Neural Networks. The project covers image preprocessing, augmentation, model training, evaluation, and prediction.
+`Deep Learning` `Computer Vision` `CNNs` `Image Processing` `Model Training`
 
-**Highlights**
+---
 
-- 📷 Image preprocessing & augmentation
-- 🧠 CNN-based image classification
-- 📊 Model evaluation & hyperparameter tuning
-- 🎯 High-accuracy facial recognition pipeline
+## 📰 Fake News Detection
 
-**Tech Stack**
+Built an NLP-powered misinformation detection system that classifies news articles as real or fake using feature engineering and comparative machine learning. Evaluated multiple classification algorithms to identify the best-performing model.
 
-`Python` `TensorFlow` `Keras` `OpenCV`
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
 
-### 📰 Fake News Detection
+### Technologies
 
-Developed an NLP-based misinformation detection system that compares multiple machine learning algorithms for classifying news articles as real or fake.
+`Python` `Scikit-learn` `Pandas` `NumPy` `TF-IDF`
 
-**Highlights**
+### Demonstrates
 
-- 📝 TF-IDF feature engineering
-- 🤖 Logistic Regression, Naive Bayes & SVM comparison
-- 📈 Model performance evaluation
-- 📊 Text preprocessing pipeline
+`Natural Language Processing` `Feature Engineering` `Text Classification` `Model Evaluation`
 
-**Tech Stack**
+---
 
-`Python` `Scikit-learn` `Pandas` `NumPy`
+## 🎯 AI Career Recommendation System
 
-### 🎯 AI Career Recommendation System
+Developed an intelligent recommendation engine that matches users with suitable career paths using Natural Language Processing and semantic similarity techniques. The system generates personalized career recommendations based on user interests and skills.
 
-Designed an intelligent recommendation engine that matches users with suitable career paths using Natural Language Processing and semantic similarity techniques.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
 
-**Highlights**
+### Technologies
 
-- 🎯 Skill-based career recommendations
-- 📚 Learning roadmap generation
-- 🔍 TF-IDF & Cosine Similarity
-- 💡 Personalized recommendations
+`Python` `Scikit-learn` `TF-IDF` `Cosine Similarity` `Pandas`
 
-**Tech Stack**
+### Demonstrates
 
-`Python` `Scikit-learn` `NLP`
+`Recommendation Systems` `Semantic Search` `Natural Language Processing` `Information Retrieval`
 
 ---
 
